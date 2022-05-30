@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--For LIGHT theme-->
+    <color name="Blue_700">#2488d0</color>>
+    <color name="Blue_800">#2177bc</color>
+
+    <!--For NIGHT theme-->
+    <color name="Black_600">#555555</color>
+    <color name="Black_700">#434343</color>
+
+    <!--Overall color-->
+    <color name="white">#FFFFFF</color>
+
+</resources>

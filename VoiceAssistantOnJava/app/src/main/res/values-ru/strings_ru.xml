@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">СПБГУПТД</string>
+    <string name="action_stop">Стоп </string>>
+    <string name="action_clear">Удалить</string>>
+    <string name="request_hint">Что бы Вы хотели спросить?</string>>
+</resources>
